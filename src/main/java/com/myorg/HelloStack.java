@@ -35,5 +35,6 @@ public class HelloStack extends Stack {
 
         User user = new User(this, "MyUser", UserProps.builder().build());
         hello.grantRead(user);
+
     }
 }

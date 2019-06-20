@@ -53,6 +53,7 @@
             <artifactId>s3</artifactId>
             <version>0.35.0</version>
         </dependency>
+
         <dependency>
             <groupId>software.amazon.awscdk</groupId>
             <artifactId>sns</artifactId>
